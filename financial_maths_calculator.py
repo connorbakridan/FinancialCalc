@@ -38,7 +38,7 @@ INTEREST_ALIASES = {
 }
 
 # Human-readable labels and the print description for each annuity function.
-# {v} is filled in with the calculated result (ct * raw value).
+
 ANNUITY_DESCRIPTIONS = {
     "AT": "the accumulated value",
     "VT": "the discounted (present) value",
