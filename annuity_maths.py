@@ -5,7 +5,7 @@ Pure calculation functions for compound interest and annuity values
 (standard actuarial notation, as used in Financial Mathematics 1 /
 the IFoA Formulae and Tables).
 
-No input()/print() here on purpose -- these functions just compute
+No input()/print() here on purpose, these functions just compute
 numbers, so they can be tested and reused without needing a live
 interactive session.
 """
